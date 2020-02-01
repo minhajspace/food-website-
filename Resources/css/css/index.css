@@ -16,3 +16,14 @@ html {
   margin: 0 auto;
   max-width: 1140px;
 }
+
+header {
+  background-image: url(hero.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  margin: 0;
+}
