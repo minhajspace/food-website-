@@ -41,4 +41,6 @@ h1 {
   color: black;
   font-size: 240%;
   font-weight: 300;
+  letter-spacing: 1px;
+  word-spacing: 3px;
 }
