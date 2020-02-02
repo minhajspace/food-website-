@@ -51,3 +51,9 @@ h1 {
   font-weight: 300;
   text-decoration: none;
 }
+
+.btn-full {
+  background-color: #e67e22;
+  border: 1px solid black;
+  border-radius: 25px;
+}
