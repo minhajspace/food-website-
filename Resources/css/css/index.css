@@ -44,3 +44,10 @@ h1 {
   letter-spacing: 1px;
   word-spacing: 3px;
 }
+
+.btn {
+  display: inline;
+  padding: 10px 30px;
+  font-weight: 300;
+  text-decoration: none;
+}
