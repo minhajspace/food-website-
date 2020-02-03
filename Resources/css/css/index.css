@@ -32,36 +32,8 @@ h1 {
 }
 
 .header-hero-box {
-  position: absolute;
-  width: 100%;
+  position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-.header-hero-box h1 {
-  color: black;
-  font-size: 240%;
-  font-weight: 300;
-  letter-spacing: 1px;
-  word-spacing: 3px;
-}
-
-.btn {
-  display: inline;
-  padding: 10px 30px;
-  font-weight: 300;
-  text-decoration: none;
-  border-radius: 300px;
-  color: #fff;
-}
-
-.btn-full {
-  background-color: #e67e22;
-  border: 1px solid #e67e22;
-}
-.btn-ghust {
-  background-color: burlywood;
-  border-radius: 25px;
-  border: 1px solid burlywood;
 }
