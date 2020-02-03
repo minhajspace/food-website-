@@ -15,7 +15,6 @@ html {
 .row {
   margin: 0 auto;
   max-width: 1140px;
-  font-weight: 300;
 }
 
 header {
@@ -23,22 +22,15 @@ header {
   height: 100vh;
   background-size: cover;
   background-position: center;
-  position: relative;
+}
+.header-hero-box {
+  width: 1140px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 h1 {
   margin: 0;
-  font-size: 200%;
-}
-
-.header-hero-box {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 50%;
-}
-.header-hero-box h1 {
-  margin: 0;
-  font-weight: 100%s;
 }
