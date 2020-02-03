@@ -15,6 +15,7 @@ html {
 .row {
   margin: 0 auto;
   max-width: 1140px;
+  font-weight: 300;
 }
 
 header {
@@ -27,6 +28,7 @@ header {
 
 h1 {
   margin: 0;
+  font-size: 200%;
 }
 
 .header-hero-box {
@@ -50,12 +52,13 @@ h1 {
   padding: 10px 30px;
   font-weight: 300;
   text-decoration: none;
+  border-radius: 300px;
+  color: #fff;
 }
 
 .btn-full {
   background-color: #e67e22;
   border: 1px solid #e67e22;
-  border-radius: 25px;
 }
 .btn-ghust {
   background-color: burlywood;
