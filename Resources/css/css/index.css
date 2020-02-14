@@ -18,7 +18,7 @@ html {
 }
 
 header {
-  background-image: url(hero.jpg);
+  background-image: url(Home.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -28,7 +28,7 @@ header {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate();
 }
 
 h1 {
