@@ -36,4 +36,7 @@ h1 {
   color: white;
   font-size: 240%;
   font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  word-spacing: 3px;
 }
