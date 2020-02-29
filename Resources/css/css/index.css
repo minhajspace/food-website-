@@ -19,7 +19,7 @@ html {
 
 header {
   position: relative;
-  background-image: url(home.jpg);
+  background-image: url(hero.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
