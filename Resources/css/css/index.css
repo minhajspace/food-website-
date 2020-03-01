@@ -40,3 +40,7 @@ h1 {
   letter-spacing: 1px;
   word-spacing: 3px;
 }
+
+.btn {
+  padding: 10px 20px;
+}
