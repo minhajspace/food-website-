@@ -42,5 +42,8 @@ h1 {
 }
 
 .btn {
+  display: inline;
   padding: 10px 20px;
+  text-decoration: none;
+  font-weight: 300;
 }
