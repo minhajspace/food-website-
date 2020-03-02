@@ -42,6 +42,7 @@ h1 {
 }
 
 .btn {
+  margin-top: 20px;
   display: inline;
   padding: 10px 20px;
   text-decoration: none;
@@ -56,9 +57,7 @@ h1 {
 .btn-half:active {
   border: 1px solid #fdb328;
 }
-a {
-  text-decoration: none;
-}
+
 .btn-full {
   border: 1px solid #fdb328;
   background-color: Transparent;
@@ -66,9 +65,10 @@ a {
 }
 .btn-half {
   background-color: #fdb328;
-  border: 1px solid black;
+  border: 1px solid rgb(78, 78, 136);
 }
 
 .a-tag-color {
-  color: #fff;
+  color: rgb(74, 74, 119);
+  text-decoration: none;
 }
