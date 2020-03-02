@@ -48,8 +48,13 @@ h1 {
   font-weight: 300;
   border-radius: 200px;
 }
-.btn:hover {
+.btn:hover,
+.btn:active {
   background-color: #fdb328;
+}
+.btn-half:hover,
+.btn-half:active {
+  border: 1px solid #fdb328;
 }
 a {
   text-decoration: none;
