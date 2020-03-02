@@ -54,4 +54,10 @@ a {
   text-decoration: none;
 }
 .btn-full {
+  background-color: rgb(224, 154, 24);
+  border: 1px solid black;
+}
+.btn-half {
+  background-color: rgb(82, 138, 82);
+  border: 1px solid black;
 }
