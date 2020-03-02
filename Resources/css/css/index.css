@@ -46,7 +46,6 @@ h1 {
   padding: 10px 20px;
   text-decoration: none;
   font-weight: 300;
-  opacity: 0.6;
   border-radius: 200px;
 }
 
@@ -54,10 +53,15 @@ a {
   text-decoration: none;
 }
 .btn-full {
-  background-color: rgb(224, 154, 24);
-  border: 1px solid black;
+  border: 1px solid #fdb328;
+  background-color: Transparent;
+  color: #fff;
 }
 .btn-half {
-  background-color: rgb(82, 138, 82);
+  background-color: #fdb328;
   border: 1px solid black;
+}
+
+.a-tag-color {
+  color: #fff;
 }
