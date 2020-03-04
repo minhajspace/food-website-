@@ -73,3 +73,25 @@ h1 {
   color: rgb(74, 74, 119);
   text-decoration: none;
 }
+
+.logo {
+  height: 100px;
+  margin-top: 20px;
+  width: auto;
+  float: left;
+}
+
+.main-nav {
+  float: right;
+  margin-top: 60px;
+}
+.main-nav li {
+  margin-left: 40px;
+  display: inline;
+  text-transform: uppercase;
+}
+.main-nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 90%;
+}
