@@ -77,6 +77,14 @@ h1 {
 .how-hover:active {
   background-color: #fdb328;
 }
+.our-cities-hover:hover,
+.our-cities-hover:active {
+  background-color: #fdb328;
+}
+.Sign-up-hover:hover,
+.Sign-up-hover-hover:active {
+  background-color: #fdb328;
+}
 .btn-full {
   border: 1px solid #fdb328;
   background-color: Transparent;
