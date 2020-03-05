@@ -58,6 +58,10 @@ h1 {
 .btn-half:active {
   border: 1px solid #fdb328;
 }
+.main-nav:hover,
+.main-nav:active {
+  background-color: #fdb328;
+}
 
 .btn-full {
   border: 1px solid #fdb328;
