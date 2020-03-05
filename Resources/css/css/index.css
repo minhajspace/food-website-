@@ -95,3 +95,14 @@ h1 {
   color: #fff;
   font-size: 90%;
 }
+
+.section-feature h2 {
+  font-weight: 300;
+  font-size: 150%;
+}
+
+.section-feature p {
+  margin-top: 5px;
+  font-size: 80%;
+  color: gray;
+}
