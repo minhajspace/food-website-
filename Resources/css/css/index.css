@@ -58,10 +58,7 @@ h1 {
 .btn-half:active {
   border: 1px solid #fdb328;
 }
-/* .main-nav:hover,
-.main-nav:active {
-  background-color: #fdb328;
-} */
+
 .food-hover:hover,
 .food-hover:active {
   background-color: #fdb328;
@@ -69,7 +66,7 @@ h1 {
 .main-nav a {
   border: 1px;
   border-radius: 5px;
-  color: #fdb328;
+  color: rgb(74, 74, 119);
   padding: 5px;
 }
 
@@ -118,7 +115,7 @@ h1 {
 }
 .main-nav a {
   text-decoration: none;
-  color: #fff;
+
   font-size: 90%;
 }
 
